@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126705851345",
+    "project_id": "boloodo-app",
+    "storage_bucket": "boloodo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126705851345:android:fa79fd34eb34dadd16def0",
+        "android_client_info": {
+          "package_name": "com.maxcore.crypto_cent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126705851345-e7c6lnjv9pk5r8jicl9iubg0c8q5mcvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxcore.crypto_cent",
+            "certificate_hash": "48edb92569e9fa89dfe3370db82031305f2be7e5"
+          }
+        },
+        {
+          "client_id": "126705851345-aj1dc4s2utl7fbtc4a17252gom2ibbo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUqkYjDvKnnVAk1BbTPkEC4UQsyxE1OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126705851345-aj1dc4s2utl7fbtc4a17252gom2ibbo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

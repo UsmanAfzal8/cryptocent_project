@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141894313699",
+    "project_id": "cryptocent-dfa6b",
+    "storage_bucket": "cryptocent-dfa6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141894313699:android:d7f84377447b02b1f547d6",
+        "android_client_info": {
+          "package_name": "com.maxcore.crypto_cent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141894313699-7bh15kd3hslr672mlnv6rmq3js9gp1pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6EbetDM8M9TBTfVnY6LzEZgrvNOl5oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141894313699-7bh15kd3hslr672mlnv6rmq3js9gp1pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
